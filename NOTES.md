@@ -22,3 +22,10 @@ has many items
 
 items
 belongs to a list
+
+i need a model
+i need a controller
+i should generate a resource (both at once )
+
+Does it impact the DB?
+Does it impact my URLs?
